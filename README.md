@@ -31,5 +31,8 @@ local means.
 
 ## Internship at NITK
 [Linkedin](www.google.com)
-[Facebook](https://www.facebook.com/susannaruth.peter)
+
 [Github](https://github.com/SusannaRuth)
+
+[Facebook](https://www.facebook.com/susannaruth.peter)
+
