@@ -29,8 +29,8 @@ to reasons unrelated to network congestion(such as wireless bit errors or collis
 performance than median filter. Also extended it by implementing a non local median filter based on the concept of non
 local means.
 
-## Internship at NITK
-[LinkedIn](www.google.com)
+## Contact Me @
+[LinkedIn](https://www.linkedin.com/in/susanna-ruth-peter-991953147/)
 
 [Github](https://github.com/SusannaRuth)
 
