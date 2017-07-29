@@ -1,3 +1,6 @@
+## About Me
+Currently pursuing my M.Tech in Computer Science at National Institute of Technology, Karnataka. My areas of interest are Networking, Machine Learning and Data Structures. You can find more about me [at](www.google.com)
+
 ## Projects
 
 You can use the [editor on GitHub](https://github.com/SusannaRuth/SusannaRuth.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
