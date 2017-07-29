@@ -1,5 +1,5 @@
 ## About Me
-Currently pursuing my M.Tech in Computer Science at National Institute of Technology, Karnataka. My areas of interest are Networking, Machine Learning and Data Structures. You can find more about me [at](www.google.com)
+Currently pursuing my M.Tech in Computer Science at National Institute of Technology, Karnataka. My areas of interest are Networking, Machine Learning and Data Structures. More about me in my [resume.](www.google.com)
 
 ## Projects
 
