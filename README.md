@@ -1,40 +1,35 @@
 ## About Me
-Currently pursuing my M.Tech in Computer Science at National Institute of Technology, Karnataka. My areas of interest are Networking, Machine Learning and Data Structures. More about me in my [resume.](www.google.com)
+Currently pursuing my M.Tech in Computer Science at National Institute of Technology, Karnataka. My areas of interest are Networking, Machine Learning and Data Structures. Currently working under Dr. B. R. Chandavarkar on Media Independent Handover (IEEE 802.21). More about me in my [resume.](www.google.com)
+
+## Internship at NITK
+- _**Implementation of Media Independent Handover (IEEE 802.21) in ns-3**_
+
+  Ported the partial implementation of MIH to ns-3.26 and working on the complete implementation.
 
 ## Projects
+- _**Implementation of Checksum in NAT(Network Address Translator)**_
 
-You can use the [editor on GitHub](https://github.com/SusannaRuth/SusannaRuth.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  NAT overcomes the problem of IP address depletion by maintaining a mapping of local IP and port tuples to globally
+unique IP and port tuples. NAT has already been implemented in ns-3 as a GSOC project. This project added the
+checksum for NAT which recalculates the checksum for IP and TCP/UDP headers after they are modified by NAT.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- _**Implementation of Fair Random Early Drop in ns-3**_
 
-### Markdown
+  FRED is an active queue management algorithm that uses per-flow information to handle different types of flows in a fairer
+manner that RED.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- _**Implementation of ELN (Explicit Loss Notification) (Ongoing)**_
 
-```markdown
-Syntax highlighted code block
+  Implementing ELN in ns-3 which provides a mechanism by which a TCP sender can be informed when a loss happens due
+to reasons unrelated to network congestion(such as wireless bit errors or collisions).
 
-# Header 1
-## Header 2
-### Header 3
+- _**Implementation of Modified Decision Based Median Filter for Impulse Noise Removal**_
 
-- Bulleted
-- List
+  Implemented a modified decision based median filter to remove impulse noise from corrupted images which gives a better
+performance than median filter. Also extended it by implementing a non local median filter based on the concept of non
+local means.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SusannaRuth/SusannaRuth.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Internship at NITK
+[Linkedin](www.google.com)
+[Facebook](https://www.facebook.com/susannaruth.peter)
+[Github](https://github.com/SusannaRuth)
