@@ -1,5 +1,5 @@
 ## About Me
-Currently pursuing my M.Tech in Computer Science at National Institute of Technology, Karnataka. My areas of interest are Networking, Machine Learning and Data Structures. Currently working under Dr. B. R. Chandavarkar on Media Independent Handover (IEEE 802.21). More about me in my [resume.](www.google.com)
+Currently pursuing my M.Tech in Computer Science from National Institute of Technology, Karnataka. My areas of interest are Networking, Machine Learning and Data Structures. Currently working under Dr. B. R. Chandavarkar on Media Independent Handover (IEEE 802.21). More about me in my [resume.](www.google.com)
 
 ## Internship at NITK
 - _**Implementation of Media Independent Handover (IEEE 802.21) in ns-3**_
@@ -30,7 +30,7 @@ performance than median filter. Also extended it by implementing a non local med
 local means.
 
 ## Internship at NITK
-[Linkedin](www.google.com)
+[LinkedIn](www.google.com)
 
 [Github](https://github.com/SusannaRuth)
 
